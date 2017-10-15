@@ -1,0 +1,15 @@
+.hello {
+    font-size: 900%;
+    color: #be0085;
+    text-align: center;
+    padding-top: 20%;
+}
+body {
+    background-image: url("neー.png");
+    background-repeat: no-repeat;
+}
+.subtitle {
+    text-align: center;
+    font-size: 100%;
+    color: #b83a00;
+}
